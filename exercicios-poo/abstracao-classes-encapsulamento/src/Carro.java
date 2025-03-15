@@ -90,7 +90,7 @@ public class Carro {
                         marcha = novaMarcha;
                         System.out.println("Marcha trocada para " + marcha + "ª marcha.");
                     } else {
-                        System.out.println("Velocidade incompatível com a marcha.");
+                        System.out.println("Velocidade incompatível com a marcha!");
                     }
                 } else {
                     System.out.println("Não é possível pular marchas.");
