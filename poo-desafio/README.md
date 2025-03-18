@@ -10,7 +10,7 @@
 Neste desafio, fui responsável por modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet.
 
 #### Contexto
-Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), elaboei a diagramação das classes e interfaces utilizando uma ferramenta UML. Em seguida, implementei as classes e interfaces no formato de arquivos `.java`.
+Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), elaborei a diagramação das classes e interfaces utilizando uma ferramenta UML. Em seguida, implementei as classes e interfaces no formato de arquivos `.java`.
 
 [Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8)
 
