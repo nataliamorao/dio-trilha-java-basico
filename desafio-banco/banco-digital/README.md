@@ -164,8 +164,4 @@ Como próximos passos, podem ser implementadas as seguintes melhorias:
 
 Sinta-se à vontade para contribuir com este projeto através de pull requests, reportando bugs ou sugerindo novas funcionalidades.
 
-### 📄 Licença
-
-\[Adicionar aqui o tipo de licença, por exemplo: MIT License\]
-
-Feito com ❤️ por \[Seu Nome/Nickname\]
+Feito com ❤️ por \[Natalia/nataliamorao\]
